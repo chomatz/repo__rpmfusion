@@ -4,6 +4,7 @@ ansible role for enabling rpmfusion repositories
 # variables
 # dependencies
 # examples
+```
 ---
 
 - name: usage example
@@ -16,3 +17,4 @@ ansible role for enabling rpmfusion repositories
         name: repo__fusion
 
 ...
+```
