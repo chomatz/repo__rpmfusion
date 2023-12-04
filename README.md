@@ -1,5 +1,5 @@
 # repo__rpm_fusion
-ansible role for enabling rpmfusion repositories
+ansible role for enabling rpm fusion repositories
 # requirements
 # variables
 # dependencies
