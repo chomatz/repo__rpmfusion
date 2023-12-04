@@ -1,4 +1,4 @@
-# repo__rpmfusion
+# repo__rpm_fusion
 ansible role for enabling rpmfusion repositories
 # requirements
 # variables
@@ -14,7 +14,7 @@ ansible role for enabling rpmfusion repositories
 
     - name: enable rpm_fusion repositories
       include_role:
-        name: repo__fusion
+        name: repo__rpm_fusion
 
 ...
 ```
